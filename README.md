@@ -3,7 +3,7 @@
 借用一下Github。
 
 #### 目录
-* [站立]()
+* [站立](https://github.com/zjhch123/Kirisama_Marisa_Game_Resource#%E7%AB%99%E7%AB%8B)
 
 
 
