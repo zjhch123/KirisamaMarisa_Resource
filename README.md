@@ -15,6 +15,7 @@
   * <a href="#后退之前">后退之前</a>
   * <a href="#后退中">后退中</a>
   * <a href="#后退之后">后退之后</a>
+* <a href="#笑">笑</a>
 
 
 
@@ -37,3 +38,5 @@
 ![后退中](https://raw.githubusercontent.com/zjhch123/KirisamaMarisa_Resource/master/gifs/ing_back.gif)
 ##### 后退之后
 ![后退之后](https://raw.githubusercontent.com/zjhch123/KirisamaMarisa_Resource/master/gifs/after_back.gif)
+#### 笑
+![笑](https://raw.githubusercontent.com/zjhch123/KirisamaMarisa_Resource/master/gifs/smile.gif)
