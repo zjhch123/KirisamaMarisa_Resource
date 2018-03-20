@@ -10,6 +10,10 @@
   * <a href="#前进完整">前进完整</a>
   * <a href="#前进之前">前进之前</a>
   * <a href="#前进中">前进中</a>
+* <a href="#加速前进">加速前进</a>
+  * <a href="#加速前进完整">前进完整</a>
+  * <a href="#加速前进之前">前进之前</a>
+  * <a href="#加速前进中">前进中</a>
 * <a href="#后退">后退</a>
 * <a href="#完整后退">完整后退</a>
   * <a href="#后退之前">后退之前</a>
@@ -29,6 +33,13 @@
 ![前进之前](https://raw.githubusercontent.com/zjhch123/KirisamaMarisa_Resource/master/gifs/pre_move.gif)
 ##### 前进中
 ![前进中](https://raw.githubusercontent.com/zjhch123/KirisamaMarisa_Resource/master/gifs/ing_move.gif)
+#### 加速前进
+##### 加速前进完整
+![加速前进完整](https://raw.githubusercontent.com/zjhch123/KirisamaMarisa_Resource/master/gifs/speedUp.gif)
+##### 加速前进之前
+![加速前进之前](https://raw.githubusercontent.com/zjhch123/KirisamaMarisa_Resource/master/gifs/pre_speedUp.gif)
+##### 加速前进中
+![加速前进中](https://raw.githubusercontent.com/zjhch123/KirisamaMarisa_Resource/master/gifs/ing_speedUp.gif)
 #### 后退
 ##### 完整后退
 ![完整后退](https://raw.githubusercontent.com/zjhch123/KirisamaMarisa_Resource/master/gifs/back.gif)
